@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><class>
+    
+
+    
+
+    
+    <bus id="3">
+        <firstPoint>W</firstPoint>
+        <endPoint>R</endPoint>
+        <time>3.3</time>
+    </bus>
+
+
+    <bus id="10">
+        <firstPoint>Z</firstPoint>
+        <endPoint>X</endPoint>
+        <time>8.40</time>
+    </bus>
+
+    
+
+    <bus id="18">
+        <firstPoint>Q</firstPoint>
+        <endPoint>I</endPoint>
+        <time>4.20</time>
+    </bus>
+    
+    
+    
+
+
+
+    <bus id="12">
+        <firstPoint>Z</firstPoint>
+        <endPoint>X</endPoint>
+        <time>1.30</time>
+    </bus>
+
+
+<bus id="9"><firstPoint>S</firstPoint><endPoint>A</endPoint><time>1.2</time></bus>
+    <bus id="2"><firstPoint>D</firstPoint><endPoint>Q</endPoint><time>1.5</time></bus>
+    <bus id="7"><firstPoint>q</firstPoint><endPoint>d</endPoint><time>1</time></bus>
+    <bus id="26"><firstPoint>Q</firstPoint><endPoint>W</endPoint><time>1</time></bus>
+    <bus id="27"><firstPoint>A</firstPoint><endPoint>W</endPoint><time>10.2</time></bus>
+    <bus id="4"><firstPoint>A</firstPoint><endPoint>E</endPoint><time>5.5</time></bus>
+    <bus id="1"><firstPoint>Q</firstPoint><endPoint>A</endPoint><time>1.2</time></bus>
+    <bus id="5"><firstPoint>A</firstPoint><endPoint>S</endPoint><time>1.3</time></bus>
+    <bus id="8"><firstPoint>B</firstPoint><endPoint>S</endPoint><time>10.2</time></bus>
+    <bus id="29"><firstPoint>Z</firstPoint><endPoint>N</endPoint><time>8.2</time></bus>
+
+</class>

@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="gwt-user">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../gwt-2.8.0/gwt-2.8.0/gwt-user.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../gwt-2.8.2" />
+      <root url="jar://$PROJECT_DIR$/../../gwt-user-2.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../gwt-2.8.2/gwt-2.8.2/doc/javadoc" />
+      <root url="https://mvnrepository.com/artifact/com.google.gwt/gwt-user/2.8.0" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../gwt-2.8.0/gwt-2.8.0/gwt-user.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../gwt-2.8.2/gwt-2.8.2/samples/DynaTableRf/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../gwt-2.8.2/gwt-2.8.2/samples/DynaTable/src" />
+      <root url="file://$PROJECT_DIR$/../../gwt-2.8.2/gwt-2.8.2/samples/Hello/src" />
+      <root url="file://$PROJECT_DIR$/../../gwt-2.8.2/gwt-2.8.2/samples/JSON/src" />
+      <root url="file://$PROJECT_DIR$/../../gwt-2.8.2/gwt-2.8.2/samples/Mail/src" />
+      <root url="file://$PROJECT_DIR$/../../gwt-2.8.2/gwt-2.8.2/samples/MobileWebApp/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../gwt-2.8.2/gwt-2.8.2/samples/MobileWebApp/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../gwt-2.8.2/gwt-2.8.2/samples/Showcase/src" />
+      <root url="file://$PROJECT_DIR$/../../gwt-2.8.2/gwt-2.8.2/samples/Validation/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../gwt-user-2.8.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
